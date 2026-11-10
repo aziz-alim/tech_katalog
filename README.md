@@ -27,7 +27,7 @@ Projeyi kendi ortamınızda çalıştırmak için aşağıdaki adımları izleye
 
 1. Bu depoyu (repository) bilgisayarınıza klonlayın:
 ```bash
-git clone https://github.com/aziz-mevlana/tech_katalog/
+git clone https://github.com/aziz-alim/tech_katalog/
 ```
 
 2. Terminal üzerinden proje klasörüne girin:
